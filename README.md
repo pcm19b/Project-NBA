@@ -6,4 +6,4 @@ This is a project in which I will be investigating NBA datasets in order to addr
 2. Data Analysis (Excel)
 3. Data Visualization (Tableau)
 
-##Step 1: Data Collection and Cleansing
+##Step 1 Data Collection and Cleansing
