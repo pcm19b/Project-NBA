@@ -7,3 +7,5 @@ This is a project in which I will be investigating NBA datasets in order to addr
 3. Data Visualization (Tableau)
 
 ## Data Collection and Cleansing
+
+My ultimate goal was to determine how three-point shot usage and effectiveness is related to team success over the past decade. So first, I downloaded a comprehensive and expanisve NBA dataset that included information on games, teams, and players dating back to 1963. Defining 'team success' as regular season record as, playoff record, and the winning of a championship, I had to combine data from multiple different entities. I wrote an SQL query
